@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Robin Eschner Paintings</title>
+<!-- TemplateEndEditable -->
+<link href="../css/layout.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+<div id="top"><a href="../index.html"><img src="../images/Robin_Eschner_header.jpg" alt="Robin Eschner" width="780" height="63" border="0" /></a>
+    <div id="nav">
+      <ul>
+      
+        
+        <li><a href="#">Paintings</a></li>
+            <li><a href="#">Cards</a></li>
+            <li><a href="#">Prints</a></li>
+            <li><a href="#">Barry Lopez Books</a></li>
+            <li><a href="#">Biography</a></li>
+            <li><a href="#">Contact</a></li>
+            <a href="#"></a>
+      </ul>
+    </div>
+</div> 
+
+  <div id="main"><!-- TemplateBeginRepeat name="RepeatRegion1" --><!-- TemplateBeginEditable name="EditContent" -->
+    <table width="400" border="0" cellspacing="0" cellpadding="5">
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+  <!-- TemplateEndEditable --><!-- TemplateEndRepeat -->
+    <p>&nbsp;</p>
+  </div>
+    <div id="footer">
+      <ul>
+  
+        <li><a href="#">Paintings</a></li>
+        <li><a href="#">Cards</a></li>
+        <li><a href="#">Prints</a></li>
+        <li><a href="#">Barry Lopez Books</a></li>
+        <li><a href="#">Biography</a></li>
+        <li><a href="#">Contact</a></li>
+   
+      </ul>
+  </div>
+</div>
+</body>
+</html>
